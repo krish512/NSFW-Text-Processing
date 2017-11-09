@@ -1,0 +1,29 @@
+{
+  "name": "nsfw-text-processing",
+  "version": "1.0.0",
+  "description": "Text Processing Engine for NSFW and blocked words detection in a given text, written in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krish512/NSFW-Text-Processing.git"
+  },
+  "keywords": [
+    "Text",
+    "Processing",
+    "NSFW"
+  ],
+  "author": "Krishna Modi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krish512/NSFW-Text-Processing/issues"
+  },
+  "homepage": "https://github.com/krish512/NSFW-Text-Processing#readme",
+  "dependencies": {
+    "mongodb": "^2.2.33",
+    "pluralize": "^7.0.0",
+    "tensify": "0.0.2"
+  }
+}
